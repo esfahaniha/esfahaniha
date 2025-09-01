@@ -38,10 +38,23 @@
 
 ---
 
-## 🚀 Most Used Languages
+## 🚀 Most Used Languages & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical" alt="langs" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical" alt="langs" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical" alt="trophy" />
+      </td>
+      <td>
+        <img src="https://activity-graph.herokuapp.com/graph?username=esfahaniha&theme=radical" alt="activity" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 

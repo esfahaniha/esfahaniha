@@ -2,6 +2,7 @@
 <h3 align="center">🚀 SysAdmin | 🐳 DevOps | ☁️ Cloud Enthusiast | 🖥️ Network & Security Specialist</h3>
 
 ---
+<img src="https://raw.githubusercontent.com/esfahaniha/esfahaniha/output/snake.svg" alt="Snake animation" />
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Enterprise IT Infrastructure & Cloud Solutions**

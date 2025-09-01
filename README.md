@@ -12,6 +12,7 @@
 ---
 
 ## 🛠 Tech Stack
+## 🛠 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -20,6 +21,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-F7DF1E?style=for-the-badge&logo=devicon&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)
 
 ---
 

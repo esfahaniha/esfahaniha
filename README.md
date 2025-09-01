@@ -48,10 +48,6 @@
       <td>
         <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical" alt="trophy" />
       </td>
-      <td>
-        <img src="https://activity-graph.herokuapp.com/graph?username=esfahaniha&theme=radical" alt="activity" />
-      </td>
-    </tr>
   </table>
 </p>
 

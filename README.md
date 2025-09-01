@@ -25,8 +25,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esfahaniha&theme=radical" alt="streak" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=esfahaniha&theme=radical" alt="streak" /></td>
+    </tr>
+  </table>
 </p>
 
 ---

@@ -36,21 +36,19 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" width="400px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" height="180px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="400px"/>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=react-dark&hide_border=true&area=true" alt="activity-graph" height="280em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=react-dark&hide_border=true&area=true" alt="activity-graph" height="250px"/>
 </p>
 
 ---

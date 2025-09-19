@@ -22,13 +22,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -36,23 +32,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 🚀 Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=radical" alt="activity-graph" />
-</p>
-
----
-
-## 🚀 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=radical&area=true&hide_border=false" alt="activity-graph" />
 </p>
 
 ---
@@ -94,6 +84,11 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>

@@ -40,8 +40,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esfahaniha&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=esfahaniha&theme=radical" alt="streak" />
 </p>
 
 ---

@@ -33,10 +33,10 @@
 ---
 
 ## 📊 GitHub Stats & 🚀 Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</div>
 
 ---
 

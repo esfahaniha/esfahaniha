@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="github-snake" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Enterprise IT Infrastructure & Cloud Solutions**  
 - 🌱 Always learning **Kubernetes, Ansible, and Cyber Security**  
@@ -96,4 +90,10 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>

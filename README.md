@@ -34,22 +34,22 @@
 
 ## 📊 GitHub Stats & 🚀 Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" height="180em"/>
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=radical&area=true&hide_border=false" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=react-dark&hide_border=true&area=true" alt="activity-graph" height="280em"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical&margin-w=5&margin-h=5" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
@@ -58,6 +58,17 @@
 - 🔐 [**Enterprise Security Toolkit**](https://github.com/esfahaniha/security-toolkit) – Scripts & Tools for SecOps  
 - 🐳 [**Dockerized App Templates**](https://github.com/esfahaniha/docker-apps) – Ready-to-use Docker setups  
 - ☁️ [**Cloud Infrastructure Scripts**](https://github.com/esfahaniha/cloud-infra) – Automating Cloud Deployments  
+
+---
+
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -70,25 +81,4 @@
   <a href="https://www.reddit.com/user/YOUR_REDDIT"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://www.youtube.com/c/YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esfahaniha&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>

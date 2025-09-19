@@ -4,6 +4,12 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F700FF&center=true&vCenter=true&width=500&lines=Automation+Lover+⚙️;Cloud+%26+DevOps+Enthusiast+☁️;Security+Specialist+🔐;Always+Learning+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
 
@@ -41,8 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical" alt="stats" />
 </p>
 
+---
+
+## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=esfahaniha&theme=radical" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=radical" alt="activity-graph" />
 </p>
 
 ---
@@ -77,4 +86,14 @@
   <a href="https://www.reddit.com/user/YOUR_REDDIT"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://www.youtube.com/c/YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esfahaniha&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>

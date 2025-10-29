@@ -49,14 +49,18 @@
 //  </tr>
 //</table>
 ## 📊 GitHub Stats & 🚀 Languages
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 1 1 400px; max-width: 400px; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" width="100%" />
-  </div>
-  <div style="flex: 1 1 400px; max-width: 400px; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="100%" />
-  </div>
-</div>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" width="49%" />
+  </picture>
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="49%" />
+  </picture>
+</p>
+
 
 ---
 

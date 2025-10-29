@@ -50,19 +50,16 @@
 //</table>
 ## 📊 GitHub Stats & 🚀 Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" 
-       alt="stats" 
-       width="48%" 
-       style="min-width:300px;" />
-  <br style="display:none;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" 
-       alt="langs" 
-       width="48%" 
-       style="min-width:300px;" />
-</p>
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" width="400px" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="400px" />
+    </td>
+  </tr>
+</table>
 
 ---
 

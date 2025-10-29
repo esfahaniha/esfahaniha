@@ -50,16 +50,16 @@
 //</table>
 ## 📊 GitHub Stats & 🚀 Languages
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" width="49%" />
-  </picture>
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="49%" />
-  </picture>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" style="width:100%; max-width:400px;" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" style="width:100%; max-width:400px;" />
+    </td>
+  </tr>
+</table>
 
 
 ---

@@ -43,17 +43,17 @@
 
 ## 📊 GitHub Stats & 🚀 Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=esfahaniha&theme=radical&hide_border=true" width="500"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=esfahaniha&theme=radical&hide_border=true" width="360"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esfahaniha&theme=radical" width="360"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esfahaniha&theme=radical" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esfahaniha&label=Profile%20Views&color=ff00ff&style=for-the-badge" />
-</p>
 
 ---
 

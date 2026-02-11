@@ -64,12 +64,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esfahaniha&theme=radical" width="360"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esfahaniha&theme=radical&utcOffset=3" width="360"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

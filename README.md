@@ -41,17 +41,15 @@
 
 ---
 
-## 📊 GitHub Stats & 🚀 Languages
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="400px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400px"/>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats & 🚀 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=esfahaniha&theme=radical&hide_border=true" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esfahaniha&theme=radical" width="800"/>
+</p>
 
 
 ---

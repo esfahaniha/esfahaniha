@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AmirHossein Esfahaniha</h1>
-<h3 align="center">🚀 SysAdmin | 🐳 DevOps | ☁️ Cloud Enthusiast | 🖥️ Network & Security Specialist</h3>
+<h3 align="center">🚀 SysAdmin | 🐳 DevOps | ☁️ Cloud Enthusiast | 🛡️ Cyber Security | 🖥️ Network & Security Specialist</h3>
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F700FF&center=true&vCenter=true&width=500&lines=Automation+Lover+⚙️;Cloud+%26+DevOps+Enthusiast+☁️;Security+Specialist+🔐;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F700FF&center=true&vCenter=true&width=650&lines=Automation+Driven+SysAdmin+⚙️;DevOps+%26+Cloud+Enthusiast+☁️;Cyber+Security+%26+Hardening+🛡️;Monitoring+First%2C+Downtime+Never+📈;Always+Learning%2C+Always+Improving+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+  <!-- Added: Monitoring / Zabbix -->
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
 ---
@@ -41,14 +45,20 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&count_private=true&layout=compact" width="400px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600" width="400px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true" width="400px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=21600" width="400px"/>
     </td>
   </tr>
 </table>
 
+<!-- Fallback (اگر بالا باز لود نشد، این دو تا رو جایگزین کن)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="400px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400px"/>
+</p>
+-->
 
 ---
 
@@ -61,8 +71,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" />
 </p>
+
+<!-- Fallback (اگر trophies لود نشد، این رو جایگزین کن)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=esfahaniha&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" />
+</p>
+-->
 
 ---
 

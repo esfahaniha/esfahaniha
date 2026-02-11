@@ -45,20 +45,14 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600" width="400px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="400px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=21600" width="400px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400px"/>
     </td>
   </tr>
 </table>
 
-<!-- Fallback (اگر بالا باز لود نشد، این دو تا رو جایگزین کن)
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=esfahaniha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="400px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=esfahaniha&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400px"/>
-</p>
--->
 
 ---
 

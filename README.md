@@ -51,6 +51,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esfahaniha&theme=radical" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esfahaniha&label=Profile%20Views&color=ff00ff&style=for-the-badge" />
+</p>
 
 ---
 

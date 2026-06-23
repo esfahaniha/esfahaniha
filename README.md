@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-  <!-- Added: Monitoring / Zabbix -->
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/Monitoring-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>

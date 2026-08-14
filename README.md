@@ -1,4 +1,4 @@
-````html
+html
 <div align="center">
 
 # AmirHossein Esfahaniha
@@ -216,4 +216,3 @@ Interested in **DevOps, Linux, Infrastructure, Networking, Monitoring, or Securi
 **Automation • Reliability • Observability • Security**
 
 </div>
-```

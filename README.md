@@ -1,11 +1,11 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:7B2CBF,100:00D9FF&text=AmirHossein%20Esfahaniha&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=DevOps%20%7C%20Linux%20%7C%20Infrastructure%20%7C%20Security&descAlignY=56&descSize=18&animation=fadeIn"/>
-
+</div>
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=DevOps+%26+Infrastructure+Engineer+%F0%9F%9A%80;Linux+Systems+%7C+Containers+%7C+Automation+%F0%9F%90%A7;Monitoring+%7C+Observability+%7C+Security+%F0%9F%9B%A1%EF%B8%8F;Automate+Everything.+Monitor+Everything.+%E2%9A%99%EF%B8%8F;Build+Reliable.+Secure.+Scalable.+Infrastructure." alt="Typing SVG" /> </a>
 
 <br>
-</div>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />

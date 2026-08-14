@@ -4,7 +4,6 @@
 
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=DevOps+%26+Infrastructure+Engineer+%F0%9F%9A%80;Linux+Systems+%7C+Containers+%7C+Automation+%F0%9F%90%A7;Monitoring+%7C+Observability+%7C+Security+%F0%9F%9B%A1%EF%B8%8F;Automate+Everything.+Monitor+Everything.+%E2%9A%99%EF%B8%8F;Build+Reliable.+Secure.+Scalable.+Infrastructure." alt="Typing SVG" /> </a>
 </div>
-<br>
 
 ---
 

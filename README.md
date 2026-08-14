@@ -1,100 +1,219 @@
-<h1 align="center">Hi 👋, I'm AmirHossein Esfahaniha</h1>
-<h3 align="center">🚀 SysAdmin | 🐳 DevOps | ☁️ Cloud Enthusiast | 🛡️ Cyber Security | 🖥️ Network & Security Specialist</h3>
+````html
+<div align="center">
+
+# AmirHossein Esfahaniha
+
+### DevOps Engineer • Linux System Administrator • Infrastructure & Network Security
+
+**Building reliable, observable, secure, and automated infrastructure.**
+
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F700FF&center=true&vCenter=true&width=650&lines=Automation+Driven+SysAdmin+⚙️;DevOps+%26+Cloud+Enthusiast+☁️;Cyber+Security+%26+Hardening+🛡️;Monitoring+First%2C+Downtime+Never+📈;Always+Learning%2C+Always+Improving+🚀" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/a-esfahaniha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://t.me/esam_dpge">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="mailto:e4fahani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **DevOps & Infrastructure Engineer** focused on building and maintaining reliable, secure, and observable systems.
+
+- Managing **Linux-based infrastructure and production environments**
+- Working with **Docker and containerized applications**
+- Building centralized **logging and monitoring solutions**
+- Automating infrastructure and repetitive operations
+- Managing **networking, security, SSL/TLS, and reverse proxies**
+- Continuously improving my knowledge of **Kubernetes, Ansible, and Cyber Security**
+
+> I prefer infrastructure that is **automated, observable, reproducible, and easy to recover.**
+
+---
+
+## Tech Stack
+
+### Infrastructure & Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+
+### Containers & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
+
+### Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
+## What I Work On
+
+```text
+Infrastructure
+├── Linux Administration
+├── Docker & Containerization
+├── Virtualization
+├── Networking
+└── SSL / TLS
+
+DevOps
+├── Automation
+├── Deployment Workflows
+├── Reverse Proxy
+├── Infrastructure Operations
+└── Troubleshooting
+
+Observability
+├── Elasticsearch
+├── Logstash
+├── Kibana
+├── Zabbix
+└── Prometheus
+
+Security
+├── System Hardening
+├── Network Security
+├── Access Control
+└── TLS / Certificate Management
+````
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **Enterprise IT Infrastructure & Cloud Solutions**  
-- 🌱 Always learning **Kubernetes, Ansible, and Cyber Security**  
-- 💡 Love to automate everything with **Bash / Python / PowerShell**  
-- ⚡ Fun fact: I drink coffee ☕ and fix servers faster ⚙️  
+## Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
+### ELK Stack Installation
 
----
+Installation and configuration guide for deploying an ELK-based centralized logging stack on Ubuntu servers.
 
-## 📊 GitHub Stats & 🚀 Activity
+**Tech:** Linux · Elasticsearch · Logstash · Kibana
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=esfahaniha&theme=radical&hide_border=true" width="360"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esfahaniha&theme=radical" width="360"/>
-    </td>
-  </tr>
+[View Repository →](https://github.com/esfahaniha/Install-elk)
+
+</td>
+<td width="50%" valign="top">
+
+### Docker Command Reference
+
+A practical Docker command reference for daily container administration and troubleshooting.
+
+**Tech:** Docker · Linux · Containers
+
+[View Repository →](https://github.com/esfahaniha/Docker-Command-Reference)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Easy Certbot Installation
+
+Quick reference for installing Certbot, configuring HTTPS, and managing SSL/TLS certificates.
+
+**Tech:** Certbot · NGINX · Linux · SSL/TLS
+
+[View Repository →](https://github.com/esfahaniha/Easy-Certbot-Installation)
+
+</td>
+<td width="50%" valign="top">
+
+### Linux NTP Time Synchronization
+
+A practical guide for configuring reliable NTP time synchronization on Linux systems.
+
+**Tech:** Linux · NTP · System Administration
+
+[View Repository →](https://github.com/esfahaniha/Linux-NTP-Time-Synchronization-Setup)
+
+</td>
+</tr>
 </table>
 
+### More Infrastructure Projects
+
+* [Get SSL in Arvan](https://github.com/esfahaniha/Get-ssl-in-arvan) — DNS TXT challenge and SSL certificate workflow
+* [Reduce Ubuntu LVM](https://github.com/esfahaniha/Reduce-Ubuntu) — Reduce Ubuntu LVM disk size and migrate to a smaller virtual disk
+* [Connect Ubuntu Server to Kerio](https://github.com/esfahaniha/connect-server-to-kerio) — Ubuntu server connectivity through Kerio VPN
 
 ---
 
-## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esfahaniha&theme=react-dark&hide_border=true&area=true" alt="activity-graph" height="250px"/>
-</p>
+## Engineering Principles
+
+```yaml
+principles:
+  - automate_repetitive_tasks
+  - monitor_before_it_breaks
+  - keep_infrastructure_reproducible
+  - secure_by_default
+  - document_everything
+  - always_have_a_recovery_plan
+```
 
 ---
 
-## 🏆 GitHub Achievements
+## Currently Improving
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esfahaniha&theme=radical" width="360"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esfahaniha&theme=radical&utcOffset=3" width="360"/>
-    </td>
-  </tr>
-</table>
+* Kubernetes & Container Orchestration
+* Infrastructure Automation with Ansible
+* Monitoring & Observability
+* DevSecOps Practices
+* Linux & Network Security
 
 ---
 
-## 🌟 Featured Projects
-- 🔐 [**Enterprise Security Toolkit**](https://github.com/esfahaniha/security-toolkit) – Scripts & Tools for SecOps  
-- 🐳 [**Dockerized App Templates**](https://github.com/esfahaniha/docker-apps) – Ready-to-use Docker setups  
-- ☁️ [**Cloud Infrastructure Scripts**](https://github.com/esfahaniha/cloud-infra) – Automating Cloud Deployments  
+<div align="center">
 
----
+### Let's Connect
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="mailto:e4fahani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/esam_dpge"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/esam_dpge"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/YOUR_REDDIT"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/esam_dpge"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/a-esfahaniha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+Interested in **DevOps, Linux, Infrastructure, Networking, Monitoring, or Security?**
+
+<a href="https://www.linkedin.com/in/a-esfahaniha">
+  <img src="https://img.shields.io/badge/LinkedIn-AmirHossein%20Esfahaniha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://t.me/esam_dpge">
+  <img src="https://img.shields.io/badge/Telegram-@esam__dpge-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<br><br>
+
+**Automation • Reliability • Observability • Security**
+
+</div>
+```

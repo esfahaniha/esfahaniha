@@ -6,10 +6,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F700FF&center=true&vCenter=true&width=650&lines=Automation+Driven+SysAdmin+⚙️;DevOps+%26+Cloud+Enthusiast+☁️;Cyber+Security+%26+Hardening+🛡️;Monitoring+First%2C+Downtime+Never+📈;Always+Learning%2C+Always+Improving+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 <p align="center">
